@@ -1,0 +1,16 @@
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/model/TweetHashTagLanguage.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/model/TweetDayHours.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/transform/ObterRetornoTratado.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/dto/GetTwitterAllInformation.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/repository/TweetDayHoursRepository.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/model/UserFollower.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/model/Tweet.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/service/TwitterService.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/service/DadosTratadosTwitterService.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/controller/TwitterController.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/CaseTwitterIntegracaoApplication.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/repository/TopUserFollowersRepository.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/repository/TweetRepository.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/repository/TweetHashTagLanguageRepository.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/dto/GetTwitterData.java
+/Users/walterrx/Downloads/integracao.itau.twitter/src/main/java/br/com/walterrx/casetwitter/integracao/dto/ProcessarTwitter.java

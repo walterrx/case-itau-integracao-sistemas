@@ -1,0 +1,16 @@
+br/com/walterrx/casetwitter/integracao/transform/ObterRetornoTratado.class
+br/com/walterrx/casetwitter/integracao/model/Tweet.class
+br/com/walterrx/casetwitter/integracao/repository/TweetDayHoursRepository.class
+br/com/walterrx/casetwitter/integracao/repository/TweetHashTagLanguageRepository.class
+br/com/walterrx/casetwitter/integracao/service/DadosTratadosTwitterService.class
+br/com/walterrx/casetwitter/integracao/dto/GetTwitterData.class
+br/com/walterrx/casetwitter/integracao/model/TweetHashTagLanguage.class
+br/com/walterrx/casetwitter/integracao/dto/GetTwitterAllInformation.class
+br/com/walterrx/casetwitter/integracao/dto/ProcessarTwitter.class
+br/com/walterrx/casetwitter/integracao/repository/TweetRepository.class
+br/com/walterrx/casetwitter/integracao/controller/TwitterController.class
+br/com/walterrx/casetwitter/integracao/service/TwitterService.class
+br/com/walterrx/casetwitter/integracao/model/UserFollower.class
+br/com/walterrx/casetwitter/integracao/model/TweetDayHours.class
+br/com/walterrx/casetwitter/integracao/repository/TopUserFollowersRepository.class
+br/com/walterrx/casetwitter/integracao/CaseTwitterIntegracaoApplication.class
