@@ -2,6 +2,8 @@
 
 Estudo de Caso tem o objetivo criar duas APIs REST, sendo, uma para consumir a API do Twitter e outra para trazer as informações processadas conforme regras estabelecidas.
 
+* Out/2018 * 
+
 ## Arquitetura de Referência
 
 - Frontend Angular responsável por exibir as informacoes da aplicacao.
