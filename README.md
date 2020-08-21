@@ -2,13 +2,15 @@
 
 Estudo de Caso tem o objetivo criar duas APIs REST, sendo, uma para consumir a API do Twitter e outra para trazer as informações processadas conforme regras estabelecidas.
 
+* Out/2018 * 
+
 ## Arquitetura de Referência
 
 - Frontend Angular responsável por exibir as informacoes da aplicacao.
 - Middleware utilizando o MicroGateway Zuul da Netflix responsavel como portal dos microservicos da empresa
 - Backend em Java-Springboot atuando como microservicos da aplicacao
 - Banco de dados MySQL via Hibernate/ JPA
-- 
+
 obs.: Neste case não foi utilizado os padrões RESTfull ***
 
 ![image](imgs/arquitetura_case.png)
